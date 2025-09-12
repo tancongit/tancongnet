@@ -158,7 +158,7 @@ p {
 	max-width: 800px;
 	height: 100%;
 	z-index: 100;
-	background-color: var(--secondary-black);
+	background-color: rgb(8 69 241 / 35%);
 	color: white;
 	display: flex;
 	align-items: center;
