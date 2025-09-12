@@ -172,7 +172,7 @@ p {
 	box-shadow: -6px 0px 29px 7px #000000a3;
 }
 #nav-content .section-heading {
-	text-align: left;
+	text-align: CENTER;
 }
 #nav-content .section-heading::before {
 	content: 'Menu';
